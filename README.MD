@@ -1,6 +1,6 @@
 # 4.3inch_ESP32-4827S043
 
-# Ressistive 4.3 inches LCD 
+# Resistive 4.3 inches LCD 
 
 # youtube
 https://youtube.com/shorts/QowfzJntxIs?feature=share
