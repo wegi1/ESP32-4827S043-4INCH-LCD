@@ -17,6 +17,11 @@ https://youtube.com/shorts/QowfzJntxIs?feature=share
 ![Screenshot](/PICTURES/09.jpg)
 ![Screenshot](/PICTURES/10.jpg)
 ![Screenshot](/PICTURES/11.jpg)
+![Screenshot](/PICTURES/12.jpg)
+![Screenshot](/PICTURES/13.jpg)
+![Screenshot](/PICTURES/14.jpg)
+![Screenshot](/PICTURES/15.jpg)
+![Screenshot](/PICTURES/16.jpg)
 
 ![Screenshot](/PICTURES/00.png)
 ![Screenshot](/PICTURES/01.png)
